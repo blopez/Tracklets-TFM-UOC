@@ -11,4 +11,6 @@ Una vez tenemos todas las dependencias instaladas (puede ser entorno físico o v
 
 
 ## Licencia
-Este proyecto está licenciado bajo licencia MIT (LICENSE.md)
+Este proyecto está licenciado bajo licencia MIT [(LICENSE.md)](LICENSE.md)
+
+
