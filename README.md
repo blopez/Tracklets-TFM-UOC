@@ -8,3 +8,7 @@ Los ficheros de código fuente han sido desarrollados contra la versión 0.9.15 
 En primer lugar es necesario ejecutar las dependencias necesarias, mediante el comando ```pip install -r requirements.txt```.
 
 Una vez tenemos todas las dependencias instaladas (puede ser entorno físico o virtual), ya podemos ejecutar las distintos ficheros de código fuente. Por ejemplo, ```python .\_one_intersection.py``` o ```python .\_cv2.py```.
+
+
+## Licencia
+Este proyecto está licenciado bajo licencia MIT (LICENSE.md)
