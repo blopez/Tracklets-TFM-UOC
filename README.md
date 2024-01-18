@@ -7,6 +7,8 @@ Los ficheros de código fuente han sido desarrollados contra la versión 0.9.15 
 
 En primer lugar es necesario ejecutar las dependencias necesarias, mediante el comando ```pip install -r requirements.txt```.
 
+También es necesario descargar el modelo pre-entrenado del dataset COCO para ser usado con YOLOv8 (yolov8n.pt).
+
 Una vez tenemos todas las dependencias instaladas (puede ser entorno físico o virtual), ya podemos ejecutar cualquiera de los 2 procesos disponibles:
 
 Proceso 1 (con CARLA abierto): preparación de entorno en intersección, y generación masiva de imágenes en disco:
