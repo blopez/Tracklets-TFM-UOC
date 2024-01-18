@@ -17,6 +17,9 @@ Proceso 1 (con CARLA abierto): preparación de entorno en intersección, y gener
 Proceso 2: post procesado de las imágenes en disco para identificar peligros en tracklets (con detección de objetos, extracción de características y unidad central de procesamiento):
 ```python .\hazard_identification.py```
 
+![image](https://github.com/blopez/Tracklets-TFM-UOC/assets/3179407/3c773c8d-dad8-451d-961f-54f8b5a1bd13)
+
+
 ## Licencia
 Este proyecto está licenciado bajo licencia MIT [(LICENSE.md)](LICENSE.md)
 
